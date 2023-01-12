@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7341d76e-88d3-49de-afce-90ad0cbfc51f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/jonathaspe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/jonathaspe/AprenderCucumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/jonathaspe/aprender_cucumber.feature" afterDir="false" />
+    <list default="true" id="7341d76e-88d3-49de-afce-90ad0cbfc51f" name="Changes" comment="Commit inicial com o primeiro dia de aula sobre o Cucumber">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/jonathaspe/AprenderCucumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/jonathaspe/AprenderCucumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/jonathaspe/aprender_cucumber.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/jonathaspe/aprender_cucumber.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Deve executar a especificação">
+  <component name="RunManager" selected="Cucumber Java.Feature: aprender_cucumber">
     <configuration name="Feature: aprender_cucumber" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/br/com/jonathaspe/aprender_cucumber.feature" />
@@ -96,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: Deve executar a especificação" />
         <item itemvalue="Cucumber Java.Feature: aprender_cucumber" />
+        <item itemvalue="Cucumber Java.Scenario: Deve executar a especificação" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +105,36 @@
       <option name="presentableId" value="Default" />
       <updated>1673493685790</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit inicial com o primeiro dia de aula sobre o Cucumber">
+      <created>1673495020664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673495020665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit inicial com o primeiro dia de aula sobre o Cucumber">
+      <created>1673495246123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673495246123</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit inicial com o primeiro dia de aula sobre o Cucumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial com o primeiro dia de aula sobre o Cucumber" />
   </component>
 </project>
